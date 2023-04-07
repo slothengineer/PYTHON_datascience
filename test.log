@@ -1,0 +1,27 @@
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is my info log
+WARNING:root:this is warning
+INFO:root:this is my log info
+INFO:root:this is my first log file with for loop [1, 2, 3, 4, 5, [9, 8, 7, 6], 'sush', 'chemi']
+INFO:root:this is value of log i am logging 1
+INFO:root:this is my first log file with for loop [1, 2, 3, 4, 5, [9, 8, 7, 6], 'sush', 'chemi']
+INFO:root:this is value of log i am logging 2
+INFO:root:this is my first log file with for loop [1, 2, 3, 4, 5, [9, 8, 7, 6], 'sush', 'chemi']
+INFO:root:this is value of log i am logging 3
+INFO:root:this is my first log file with for loop [1, 2, 3, 4, 5, [9, 8, 7, 6], 'sush', 'chemi']
+INFO:root:this is value of log i am logging 4
+INFO:root:this is my first log file with for loop [1, 2, 3, 4, 5, [9, 8, 7, 6], 'sush', 'chemi']
+INFO:root:this is value of log i am logging 5
+INFO:root:this is my first log file with for loop [1, 2, 3, 4, 5, [9, 8, 7, 6], 'sush', 'chemi']
+INFO:root:this is value of log i am logging [9, 8, 7, 6]
+INFO:root:loggin my j9 and i[9, 8, 7, 6]
+INFO:root:loggin my j8 and i[9, 8, 7, 6]
+INFO:root:loggin my j7 and i[9, 8, 7, 6]
+INFO:root:loggin my j6 and i[9, 8, 7, 6]
+INFO:root:this is my first log file with for loop [1, 2, 3, 4, 5, [9, 8, 7, 6], 'sush', 'chemi']
+INFO:root:this is value of log i am logging sush
+INFO:root:this is my first log file with for loop [1, 2, 3, 4, 5, [9, 8, 7, 6], 'sush', 'chemi']
+INFO:root:this is value of log i am logging chemi
+INFO:root:this is my final result with int [1, 2, 3, 4, 5, 9, 8, 7, 6] and str ['sush', 'chemi']
