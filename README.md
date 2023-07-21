@@ -1,16 +1,9 @@
-# lab-flask
+**Python Jupyter Notebooks for Data Science**
 
-<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
+Introduction:
 
+This repository contains a collection of Jupyter Notebooks focused on Data Science using Python. Jupyter Notebooks are interactive computing environments that allow you to create and share documents that contain live code, equations, visualizations, and explanatory text. These notebooks are meant to serve as practical examples and guides for various data science tasks, techniques, and concepts.
 
-To run flask application 
+Notebook Structure:
 
-```
-python app.py
-```
-
-
-To access your flask application open new tab in and paste the url:
-```
-https://{your_url}.pwskills.app:5000/
-```
+The notebooks are organized into different files based on the topics they cover. Each notebook is self-contained and includes explanations, code examples, and visualizations to illustrate the concepts being discussed.
